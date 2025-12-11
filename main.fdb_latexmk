@@ -1,16 +1,16 @@
 # Fdb version 4
-["bibtex main"] 1763036330.2474 "main.aux" "main.bbl" "main" 1765373901.52386 0
+["bibtex main"] 1763036330.2474 "main.aux" "main.bbl" "main" 1765454711.98635 0
   "./bibliography.bib" 1765373201.40651 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/nix/store/8syl4l5c0115q6pd6qg2a01xbxzd40ry-texlive-2024-env-texmfdist/bibtex/bst/base/plain.bst" 1 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "abstract.aux" 1765373900.63864 925 e777d51f14c24037a17d07c0c4d366ce "pdflatex"
-  "header.aux" 1765373900.61764 923 fcce1cb0ebc0f6b1c5212c5b98b370e3 "pdflatex"
-  "main.aux" 1765373901.20065 650 23602e6b69acb6c76c3a0bbeaea8cfb2 "pdflatex"
-  "statement.aux" 1765373900.63364 926 00b25421d7c4cc8466e5f8a9e5933491 "pdflatex"
+  "abstract.aux" 1765454711.43972 925 e777d51f14c24037a17d07c0c4d366ce "pdflatex"
+  "header.aux" 1765454711.42372 923 fcce1cb0ebc0f6b1c5212c5b98b370e3 "pdflatex"
+  "main.aux" 1765454711.79576 650 23602e6b69acb6c76c3a0bbeaea8cfb2 "pdflatex"
+  "statement.aux" 1765454711.43672 926 00b25421d7c4cc8466e5f8a9e5933491 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1765373899.55473 "main.tex" "main.pdf" "main" 1765373901.52416 0
+["pdflatex"] 1765454710.68698 "main.tex" "main.pdf" "main" 1765454711.98657 0
   "/nix/store/8syl4l5c0115q6pd6qg2a01xbxzd40ry-texlive-2024-env-texmfdist/fonts/enc/dvips/base/8r.enc" 1 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/nix/store/8syl4l5c0115q6pd6qg2a01xbxzd40ry-texlive-2024-env-texmfdist/fonts/map/fontname/texfonts.map" 1 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/nix/store/8syl4l5c0115q6pd6qg2a01xbxzd40ry-texlive-2024-env-texmfdist/fonts/tfm/adobe/times/ptmb7t.tfm" 1 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -202,20 +202,20 @@
   "/nix/store/ryyrqxn8yhag0jkp7sy5gzgr600pwwj9-texlive-2024-env/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5467241 7e1510df80a3082a34cbef072d48a2b1 ""
   "/nix/store/ryyrqxn8yhag0jkp7sy5gzgr600pwwj9-texlive-2024-env/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 3353341 4a5d432de42cccc6aa2062d8bf7ca88c ""
   "/nix/store/ryyrqxn8yhag0jkp7sy5gzgr600pwwj9-texlive-2024-env/share/texmf-var/web2c/texmf.cnf" 1 43655 17e50006b450b4bef63e89fb1e816d86 ""
-  "abstract.aux" 1765373900.63864 925 e777d51f14c24037a17d07c0c4d366ce "pdflatex"
+  "abstract.aux" 1765454711.43972 925 e777d51f14c24037a17d07c0c4d366ce "pdflatex"
   "abstract.tex" 1765373201.40651 996 acbe3a1e54b2e3978a915c17c28d863f ""
-  "header.aux" 1765373900.61764 923 fcce1cb0ebc0f6b1c5212c5b98b370e3 "pdflatex"
+  "header.aux" 1765454711.42372 923 fcce1cb0ebc0f6b1c5212c5b98b370e3 "pdflatex"
   "header.tex" 1765373201.40651 705 2e262adc24b73086875017e6d0c9f997 ""
   "images///politechnika_logo.png" 1765373201.40951 229616 90278b80577b3aa75e12d9fd408e048a ""
-  "main.aux" 1765373901.20065 650 23602e6b69acb6c76c3a0bbeaea8cfb2 "pdflatex"
+  "main.aux" 1765454711.79576 650 23602e6b69acb6c76c3a0bbeaea8cfb2 "pdflatex"
   "main.bbl" 1765373201.41051 49 0eba253fc001332e731e8aba3f23127b "bibtex main"
-  "main.lof" 1765373901.20465 29 1e1405008ff3f86b64f7d6ea4d45a69d "pdflatex"
-  "main.lot" 1765373901.20465 29 1e1405008ff3f86b64f7d6ea4d45a69d "pdflatex"
+  "main.lof" 1765454711.79776 29 1e1405008ff3f86b64f7d6ea4d45a69d "pdflatex"
+  "main.lot" 1765454711.79776 29 1e1405008ff3f86b64f7d6ea4d45a69d "pdflatex"
   "main.tex" 1765373201.41251 541 c1b7a6d48c84f31ee001aa5ec03f8ec2 ""
-  "main.toc" 1765373901.20465 215 0f1faa228b2af3e81b0ad247e2a7623e "pdflatex"
+  "main.toc" 1765454711.79776 215 0f1faa228b2af3e81b0ad247e2a7623e "pdflatex"
   "packages.tex" 1765373201.41251 572 8f7f6b9fa8f706329134f58e55988319 ""
-  "statement.aux" 1765373900.63364 926 00b25421d7c4cc8466e5f8a9e5933491 "pdflatex"
-  "statement.tex" 1765373201.41251 1653 1106ca115d29f918096fa04bcbef7f1e ""
+  "statement.aux" 1765454711.43672 926 00b25421d7c4cc8466e5f8a9e5933491 "pdflatex"
+  "statement.tex" 1765454674.41538 1595 893f9f68194594e2145ba437d3d63deb ""
   (generated)
   "abstract.aux"
   "header.aux"
